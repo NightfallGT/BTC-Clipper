@@ -30,7 +30,8 @@ Startup registry.
 
 ## How to use
 - Change BTC_ADDRESS to wallet address. 
-- Run
+- Change self destruct message
+- Run -> ```python btcClip.py```
 
 ## How it works
 
