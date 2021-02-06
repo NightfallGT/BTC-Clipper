@@ -13,7 +13,7 @@ BTC_ADDRESS = 'you have been infected by btc clipper malware'
 
 #Add code/ message in current.py file after deleting current .py file contents after replicating.
 SELF_DESTRUCT_MESSAGE = 'File contents have been deleted. \n To remove the \
-btc clipper, Delete it from %APPDATA% and delete it from Starup in the Registry Editor' 
+btc clipper, Delete it from %APPDATA% and delete it from Startup in the Registry Editor' 
 
 logging.basicConfig(format='[%(asctime)s] %(message)s', datefmt='%H:%M:%S', level=logging.DEBUG) #debug mode on 
 
