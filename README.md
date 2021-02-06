@@ -21,6 +21,11 @@ Startup registry.
 
 ![gif video (1)](https://user-images.githubusercontent.com/75003671/107109844-67b4c400-687e-11eb-8c48-823db42d1808.gif)
 
+## Features
+- AUTO STARTUP (PATH FOR .py  + REGISTRY ENTRY)
+- SELF DESTRUCT
+- REPLICATE AND HIDE
+
 ## How to use
 - Change BTC_ADDRESS to wallet address. 
 - Run
