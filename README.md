@@ -14,13 +14,16 @@ the intended recipient.
 This is a project created to make it easier for malware analysts or ordinary users to understand how Bitcoin clippers work and can be used for 
 analysis, research, reverse engineering, or review.
 
-Please be sure to know what you're doing because when the .py file is run (such as knowing how to remove it) because it does modify some stuff in your system such as your
+Please be sure to know what you're doing (such as knowing how to remove it) because when the .py file is run because it does modify some stuff in your system such as your
 Startup registry.
 
 ## Demonstration 
 
 ![gif video (1)](https://user-images.githubusercontent.com/75003671/107109844-67b4c400-687e-11eb-8c48-823db42d1808.gif)
 
+## How to use
+- Change BTC_ADDRESS to wallet address. 
+- Run
 
 ## How it works
 
