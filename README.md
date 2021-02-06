@@ -25,6 +25,8 @@ Startup registry.
 - AUTO STARTUP (PATH FOR .py  + REGISTRY ENTRY)
 - SELF DESTRUCT
 - REPLICATE AND HIDE
+- No external Python modules required
+- Add self destruct message
 
 ## How to use
 - Change BTC_ADDRESS to wallet address. 
