@@ -18,7 +18,9 @@ Please be sure to know what you're doing because when the .py file is run (such 
 Startup registry.
 
 ## Demonstration 
-[![gif-video.md.gif](https://s2.gifyu.com/images/gif-video.md.gif)](https://gifyu.com/image/UPXL)
+
+![gif video (1)](https://user-images.githubusercontent.com/75003671/107109844-67b4c400-687e-11eb-8c48-823db42d1808.gif)
+
 
 ## How it works
 
