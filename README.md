@@ -1,5 +1,4 @@
-# BTC-Clipper | PROOF OF CONCEPT
-## THIS TOOL SHOULD ONLY BE USED FOR EDUCATIONAL PURPOSES ONLY
+# BTC-Clipper 
 
 ## About
 a BTC Clipper or a "Bitcoin Clipper" is a type of malware designed to target cryptocurrency transactions. 
