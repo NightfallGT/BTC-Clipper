@@ -61,4 +61,4 @@ to the user's Startup registry (HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Cu
 
 
 ## Contact
-Dm me on telegram @nightfallx for coding services
+Dm me on telegram @nightfallx for coding services (btc only)
