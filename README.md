@@ -60,3 +60,5 @@ to the user's Startup registry (HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Cu
 4. Then right click it and delete
 
 
+## Contact
+Dm me on telegram @nightfallx for coding services
